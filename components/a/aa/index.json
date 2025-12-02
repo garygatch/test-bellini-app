@@ -1,0 +1,21 @@
+{
+  "type": "custom-component",
+  "name": "aa",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [
+      {
+        "id": "mDCvsRAy-1bkkniZRXTar",
+        "name": "dir"
+      }
+    ],
+    "components": [],
+    "scripts": [],
+    "stylesheets": []
+  },
+  "parentDirectoryId": "TJbTQmbQKJ-RwZo5QPBnW"
+}
